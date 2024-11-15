@@ -34,3 +34,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+Une app qui affiche les valeurs nutritionnelles dans un aliment, faite 
+pour apprendre les bases de Next js
+
+implémenter avec :
+ Typescript comme langage,
+ Shadcn ui composants 
+ tailwind css
+ 
+l'utilisation de sequelize et mysql ne sont pas encore pris en compte mais
+pour le moment les données sont statiques
+
+lancement : npm run dev
+package node modules déjà inclut 
